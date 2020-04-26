@@ -2,7 +2,7 @@
 # SDL_Pi_SHT30
 #
 # SHT30 Pure Python Library
-# SwitchDoc Labs July 2019
+# SwitchDoc Labs April 2020
 #
 #
 
